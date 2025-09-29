@@ -94,27 +94,27 @@
 
 Страница регистрации.  
 
-![Окно регистрации](https://github.com/va1leks/Telephone-Shop/blob/main/Mockups/Register_page.png)  
+![Окно регистрации](https://github.com/medvedevsc2/boots/blob/main/Mockups/Register_page.png)  
 
 Каталог кроссовоков.  
 
-![Каталог кроссовоков](https://github.com/va1leks/Telephone-Shop/blob/main/Mockups/Catalog_page.png)  
+![Каталог кроссовоков](https://github.com/medvedevsc2/boots/blob/main/Mockups/Catalog_page.png)  
 
 Карточка кроссовока.  
 
-![Карточка кроссовока](https://github.com/va1leks/Telephone-Shop/blob/main/Mockups/Card_page.PNG)  
+![Карточка кроссовока](https://github.com/medvedevsc2/boots/blob/main/Mockups/Card_page.PNG)  
 
 Корзина.  
 
-![Корзина](https://github.com/va1leks/Telephone-Shop/blob/main/Mockups/cart_page.PNG)  
+![Корзина](https://github.com/medvedevsc2/boots/blob/main/Mockups/Cart_page.PNG)  
 
 Оформление заказа.  
 
-![Оформление заказа](https://github.com/va1leks/Telephone-Shop/blob/main/Mockups/order_page.PNG)  
+![Оформление заказа](https://github.com/medvedevsc2/boots/blob/main/Mockups/Order_page.PNG)  
 
 Ошибка поиска.  
 
-![Ошибка поиска](https://github.com/va1leks/Telephone-Shop/blob/main/Mockups/search_error.PNG)  
+![Ошибка поиска](https://github.com/medvedevsc2/boots/blob/main/Mockups/Error_page.PNG)  
 
 <a name="user_specifications"/>
 
