@@ -94,11 +94,11 @@
 
 Страница регистрации.  
 
-![Окно регистрации](https://github.com/medvedevsc2/boots/blob/main/Mockups/Reg_page.png)  
+![Окно регистрации](https://github.com/medvedevsc2/boots/blob/main/Mockups/Reg_page.PNG)  
 
 Каталог кроссовоков.  
 
-![Каталог кроссовоков](https://github.com/medvedevsc2/boots/blob/main/Mockups/Catalog_page.png)  
+![Каталог кроссовоков](https://github.com/medvedevsc2/boots/blob/main/Mockups/Catalog_page.PNG)  
 
 Карточка кроссовока.  
 
