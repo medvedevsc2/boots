@@ -90,11 +90,11 @@
 
 Страница входа.  
 
-![Окно входа в приложение](https://github.com/va1leks/Telephone-Shop/blob/main/Mockups/Login_page.png)  
+![Окно входа в приложение](https://github.com/medvedevsc2/boots/blob/main/Mockups/Login_page.PNG)  
 
 Страница регистрации.  
 
-![Окно регистрации](https://github.com/medvedevsc2/boots/blob/main/Mockups/Register_page.png)  
+![Окно регистрации](https://github.com/medvedevsc2/boots/blob/main/Mockups/Reg_page.png)  
 
 Каталог кроссовоков.  
 
